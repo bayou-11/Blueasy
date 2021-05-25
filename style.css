@@ -1,0 +1,110 @@
+.image
+{
+    background-image: url("image/desert.png");
+    background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70%;
+  width: 100%;
+}
+.image3
+{
+    position: fixed; z-index: 10;
+}
+#look
+{
+  
+}
+.rotate90
+{
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+#text1
+{
+    font-size: 0.7em;
+}
+#text2
+{
+    font-size: 0.7em;
+}
+#text3
+{
+    font-size: 0.7em;
+}
+#text4
+{
+    font-size: 0.7em;
+}
+#border
+{
+    border: 1px solid;
+    width: 200px;
+    height: 25px;
+    color: white;
+    margin-left: 50px;
+}
+#border1
+{
+    border: 1px solid;
+    width: 200px;
+    height: 25px;
+    color: white;
+    margin-left: 50px;
+}
+#border2
+{
+    border: 1px solid;
+    width: 450px;
+    height: 80px;
+    color: white;
+    margin-left: 50px;
+}
+.image2
+{
+    background-image: url("image/cafe.png");
+    background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 90%;
+  width: 100%; 
+}
+#text5
+{
+    font-size: 0.7em;
+}
+#text6
+{
+    font-size: 0.7em;
+}
+#full
+{
+    font-size: 0.6em;
+}
+#email
+{
+    font-size: 0.6em;
+}
+#mess
+{
+    font-size: 0.6em;
+}
+#mess1
+{
+   
+    font-size: 0.7em;
+    background-color: #4bcaff ;
+    padding: 2px 50px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: center;
+}
+.image4
+{
+    background-color: #353f47;
+    height: 70px;
+}
